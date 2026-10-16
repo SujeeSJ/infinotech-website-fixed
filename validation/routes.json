@@ -1,0 +1,162 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/about",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/services",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/contact",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/ai-lab",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/privacy",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/omg-arcade",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/dream-event-management",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/hale-nature",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/trezzert",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/bizvocate",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/ds-air-control",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/womens-bodysuit-platform",
+    "status": 200,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/missing-page",
+    "status": 404,
+    "mainCount": 1,
+    "h1Count": 1,
+    "cspNonce": true,
+    "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/work/unknown-project",
+    "status": 404,
+    "mainCount": 0,
+    "h1Count": 0,
+    "cspNonce": true,
+    "cacheControl": "private, no-store",
+    "allScriptsNonced": true
+  },
+  {
+    "path": "/robots.txt",
+    "status": 200,
+    "mainCount": 0,
+    "h1Count": 0,
+    "cspNonce": false,
+    "cacheControl": "public, max-age=0, must-revalidate"
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "mainCount": 0,
+    "h1Count": 0,
+    "cspNonce": false,
+    "cacheControl": "public, max-age=0, must-revalidate"
+  }
+]

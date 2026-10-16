@@ -1,0 +1,296 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/about",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/services",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/contact",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/ai-lab",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/privacy",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/omg-arcade",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/dream-event-management",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/hale-nature",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/trezzert",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/bizvocate",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/ds-air-control",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/womens-bodysuit-platform",
+      "width": 375,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/missing-page",
+      "width": 375,
+      "status": 404,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/unknown-project",
+      "width": 375,
+      "status": 404,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/services",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/ai-lab",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/privacy",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/omg-arcade",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/dream-event-management",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/hale-nature",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/trezzert",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/bizvocate",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/ds-air-control",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/womens-bodysuit-platform",
+      "width": 1440,
+      "status": 200,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/missing-page",
+      "width": 1440,
+      "status": 404,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/work/unknown-project",
+      "width": 1440,
+      "status": 404,
+      "main": 1,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    }
+  ],
+  "pageErrors": [],
+  "cspViolations": [],
+  "menuChecks": "passed",
+  "chatError": "Too many requests. Please try later."
+}

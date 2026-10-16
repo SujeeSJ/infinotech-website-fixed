@@ -1,0 +1,57 @@
+
+> infinotech1@0.1.0 test
+> node --test tests/*.test.cjs
+
+✔ ai: reject foreign origin before provider (160.351721ms)
+✔ ai: reject missing origin before provider (47.570736ms)
+✔ ai: reject text/plain before provider (24.792894ms)
+✔ ai: reject encoded body before provider (23.76397ms)
+✔ ai: reject null body before provider (37.053725ms)
+✔ ai: reject malformed JSON before provider (29.824108ms)
+✔ ai: reject array body before provider (23.322805ms)
+✔ ai: reject unknown field before provider (16.337626ms)
+✔ ai: reject oversized body before provider (29.635133ms)
+✔ ai: reject oversized declared length before provider (20.863662ms)
+✔ ai: shared limiter outage fails closed (20.567015ms)
+✔ ai: limit rejects before paid provider (17.660317ms)
+✔ ai: missing trusted client identity fails closed (14.014454ms)
+✔ contact: reject foreign origin before provider (27.149871ms)
+✔ contact: reject missing origin before provider (16.518529ms)
+✔ contact: reject text/plain before provider (14.729413ms)
+✔ contact: reject encoded body before provider (15.028304ms)
+✔ contact: reject null body before provider (24.825573ms)
+✔ contact: reject malformed JSON before provider (13.629643ms)
+✔ contact: reject array body before provider (13.352225ms)
+✔ contact: reject unknown field before provider (14.682232ms)
+✔ contact: reject oversized body before provider (13.511554ms)
+✔ contact: reject oversized declared length before provider (12.119453ms)
+✔ contact: shared limiter outage fails closed (15.456089ms)
+✔ contact: limit rejects before paid provider (13.899131ms)
+✔ contact: missing trusted client identity fails closed (13.922435ms)
+✔ AI rejects malformed/empty/untrusted role (12.396962ms)
+✔ AI rejects malformed/empty/untrusted role (12.193165ms)
+✔ AI rejects malformed/empty/untrusted role (15.454307ms)
+✔ AI rejects malformed/empty/untrusted role (23.365689ms)
+✔ AI rejects malformed/empty/untrusted role (12.336851ms)
+✔ AI keeps structured roles and disables response storage (15.300605ms)
+✔ contact rejects invalid fields and honeypot (13.41529ms)
+✔ contact rejects invalid fields and honeypot (13.693119ms)
+✔ contact rejects invalid fields and honeypot (15.80677ms)
+✔ contact rejects invalid fields and honeypot (13.846751ms)
+✔ contact rejects invalid fields and honeypot (11.802004ms)
+✔ contact rejects invalid fields and honeypot (25.611069ms)
+✔ contact sends fixed-recipient plain-text email with idempotency (12.676815ms)
+✔ duplicate enquiry never sends again (15.115386ms)
+✔ ambiguous email result never claims success or releases duplicate guard (15.777145ms)
+✔ ambiguous email result never claims success or releases duplicate guard (15.981362ms)
+✔ ambiguous email result never claims success or releases duplicate guard (16.649342ms)
+✔ definitively rejected email can be retried (15.308257ms)
+✔ limits do not store raw IP address and reserve three quotas atomically (14.221647ms)
+ℹ tests 45
+ℹ suites 0
+ℹ pass 45
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1241.416325
